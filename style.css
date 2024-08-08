@@ -1,0 +1,29 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+background-color: #f8eded;
+margin:0px;
+  padding:0px;
+}
+#navbar{
+  background-color:off white;
+  text-align:center;
+  font-size: 2em;
+  padding-top:2vh;
+  padding-bottom:2vh;
+}
+img{
+  width:30vh;
+  margin-left:26vh;
+  padding-top:2vh;
+}
+h1{
+text-align:center;
+}
+  .yellow-text{
+    background-color: #eeeedd;
+    padding-bottom: 2vh;
+  }
